@@ -1,9 +1,9 @@
-var assert, sut;
+var assert, bar;
 assert = require("assert");
-sut = require("./barService");
-describe("Foo service", function() {
+bar = require("./barService");
+describe("bar service", function() {
   it("Should get baz", function() {
-    var greeting = sut("foo");
+    var greeting = bar("foo");
     assert.equal(greeting, "baz");
   });
 });
