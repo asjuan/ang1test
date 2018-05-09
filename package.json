@@ -1,0 +1,27 @@
+{
+  "name": "ang1test",
+  "version": "0.1.2",
+  "description": "Seed project to prepare Javascript TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asjuan/ang1test.git"
+  },
+  "keywords": [
+    "tdd",
+    "javascript",
+    "angular"
+  ],
+  "author": "Juan Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asjuan/ang1test/issues"
+  },
+  "homepage": "https://github.com/asjuan/ang1test#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}

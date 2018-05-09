@@ -1,3 +1,3 @@
 This is a seed project.
 
-Download Jasmine, then extract and copy lib folder
+Checkout test folder. Happy TDD!
